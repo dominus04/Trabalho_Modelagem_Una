@@ -11,10 +11,10 @@
 #### Andamento do Projeto Teórico
 - [x] Engenharia de Requisitos
 - [x] Diagrama de Casos de Uso
-- [] Diagrama de Sequência
-- [] Diagrama de Atividade
-- [] Diagrama de Classes
+- [ ] Diagrama de Sequência
+- [ ] Diagrama de Atividade
+- [ ] Diagrama de Classes
 
 #### Andamento do Projeto Prático
-- [] Modelo Conceitual do Banco de Dados
-- [] Modelo Físico do Banco de Dados
+- [ ] Modelo Conceitual do Banco de Dados
+- [ ] Modelo Físico do Banco de Dados
