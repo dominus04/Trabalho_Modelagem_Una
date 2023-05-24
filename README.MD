@@ -8,7 +8,7 @@
 - [Diego Augusto Barros](https://www.linkedin.com/in/diegoaugustobarros/)
 
 #### Alunos:
-- Igor de Melo Alves
+- [Igor de Melo Alves](https://www.linkedin.com/in/igor-melo-a1453b117/)
 
 #### Andamento do Projeto Teórico
 - [x] Engenharia de Requisitos
