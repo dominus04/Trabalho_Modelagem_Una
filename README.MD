@@ -3,8 +3,10 @@
 <br>
 <br>
 
+![Badge em andamento](https://img.shields.io/badge/STATUS-EM%20ANDAMENTO-brightgreen&?style=for-the-badge)
+
 #### Professora responsável: [Edyene Oliveira](https://www.linkedin.com/in/edyene-oliveira-49809727/)
 
-Alunos:
+#### Alunos:
 - Igor de Melo Alves
 
