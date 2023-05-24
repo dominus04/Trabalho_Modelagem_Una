@@ -14,13 +14,14 @@ O modelo de software escolhido foi o de gerenciamento financeiro e de vendas de 
 #### Alunos:
 - [Igor de Melo Alves](https://www.linkedin.com/in/igor-melo-a1453b117/)
 
-#### Andamento do Projeto Teórico
+#### Andamento do Projeto Teórico:
 - [x] Engenharia de Requisitos
 - [x] Diagrama de Casos de Uso
 - [ ] Diagrama de Sequência
 - [ ] Diagrama de Atividade
 - [ ] Diagrama de Classes
+- [ ] Prototipação
 
-#### Andamento do Projeto Prático
+#### Andamento do Projeto Prático:
 - [ ] Modelo Conceitual do Banco de Dados
 - [ ] Modelo Físico do Banco de Dados
