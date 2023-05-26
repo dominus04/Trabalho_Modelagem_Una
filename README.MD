@@ -18,7 +18,7 @@ O modelo de software escolhido foi o de gerenciamento financeiro e de vendas de 
 - [x] Engenharia de Requisitos
 - [x] Diagrama de Casos de Uso
 - [x] Diagrama de Atividade
-- [ ] Diagrama de Sequência
+- [x] Diagrama de Sequência
 - [ ] Diagrama de Classes
 - [ ] Prototipação
 
