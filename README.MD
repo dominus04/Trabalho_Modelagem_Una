@@ -17,7 +17,7 @@ O modelo de software escolhido foi o de gerenciamento financeiro e de vendas de 
 #### Andamento do Projeto Teórico:
 - [x] Engenharia de Requisitos
 - [x] Diagrama de Casos de Uso
-- [ ] Diagrama de Atividade
+- [x] Diagrama de Atividade
 - [ ] Diagrama de Sequência
 - [ ] Diagrama de Classes
 - [ ] Prototipação
