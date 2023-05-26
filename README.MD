@@ -11,7 +11,7 @@ O modelo de software escolhido foi o de gerenciamento financeiro e de vendas de 
 - [Edyene Oliveira](https://www.linkedin.com/in/edyene-oliveira-49809727/)
 - [Diego Augusto Barros](https://www.linkedin.com/in/diegoaugustobarros/)
 
-#### Alunos:
+#### Aluno:
 - [Igor de Melo Alves](https://www.linkedin.com/in/igor-melo-a1453b117/)
 
 #### Andamento do Projeto Teórico:
