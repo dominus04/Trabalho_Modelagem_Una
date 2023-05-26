@@ -23,5 +23,5 @@ O modelo de software escolhido foi o de gerenciamento financeiro e de vendas de 
 - [ ] Prototipação
 
 #### Andamento do Projeto Prático:
-- [ ] Modelo Conceitual do Banco de Dados
-- [ ] Modelo Físico do Banco de Dados
+- [x] Diagrama Conceitual do Banco de Dados
+- [ ] Diagrama Físico do Banco de Dados
