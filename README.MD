@@ -19,7 +19,7 @@ O modelo de software escolhido foi o de gerenciamento financeiro e de vendas de 
 - [x] Diagrama de Casos de Uso
 - [x] Diagrama de Atividade
 - [x] Diagrama de Sequência
-- [ ] Diagrama de Classes
+- [x] Diagrama de Classes
 - [ ] Prototipação
 
 #### Andamento do Projeto Prático:
