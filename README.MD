@@ -20,8 +20,9 @@ O modelo de software escolhido foi o de gerenciamento financeiro e de vendas de 
 - [x] Diagrama de Atividade
 - [x] Diagrama de Sequência
 - [x] Diagrama de Classes
-- [ ] Prototipação
+- [ ] Prototipagem
 
 #### Andamento do Projeto Prático:
 - [x] Diagrama Conceitual do Banco de Dados
 - [x] Diagrama Físico do Banco de Dados
+- [x] Script de Criação do Banco de Dados
