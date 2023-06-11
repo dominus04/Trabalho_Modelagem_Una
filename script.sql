@@ -1,6 +1,6 @@
 CREATE SCHEMA crm;
 
-use crm;
+USE crm;
 
 CREATE TABLE `Usuario` (
   `pessoa_fisica` char(11) NOT NULL,
