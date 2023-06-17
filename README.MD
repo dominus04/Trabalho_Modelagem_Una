@@ -20,9 +20,12 @@ O modelo de software escolhido foi o de gerenciamento financeiro e de vendas de 
 - [x] Diagrama de Atividade
 - [x] Diagrama de Sequência
 - [x] Diagrama de Classes
-- [ ] Prototipagem
+- [x] Prototipagem
 
 #### Andamento do Projeto Prático:
 - [x] Diagrama Conceitual do Banco de Dados
 - [x] Diagrama Físico do Banco de Dados
 - [x] Script de Criação do Banco de Dados
+
+#### Prototipagem
+- [Link da prototipagem no Figma](https://www.figma.com/file/RAH5B1KtDUsdhN4bPFCKDy/Prototipa%C3%A7%C3%A3o-CRM?type=design&node-id=0%3A1&t=yilszLbi4C1KbclV-1)
