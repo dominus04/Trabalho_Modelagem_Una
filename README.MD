@@ -1,4 +1,4 @@
-![Badge em andamento](https://img.shields.io/badge/STATUS-FINALIZADO-red&?style=for-the-badge)
+![Badge em andamento](https://img.shields.io/badge/STATUS-FINALIZADO-&?style=for-the-badge&color=red)
 <h2 align="center">Trabalho de Modelagem de Software</h2>
 
 ### Descrição do Trabalho:
